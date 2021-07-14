@@ -1,0 +1,46 @@
+@import '~antd/dist/antd.css';
+@import "~reset-css";
+
+@import "Layouts/_chat.scss";
+
+body {
+    background-color: #f4f7fd;
+}
+
+body,
+html,
+#root
+.wrapper{
+    height: 100%;
+    color: #202020;
+    font-size: 14px;
+
+}
+
+* {
+    outline: none;
+}
+
+.ant-btn-link{
+    color: #000c17;
+    left: 5px;
+    position: relative;
+    &:hover{
+        color: #202020;
+    }
+
+
+span.anticon {
+    font-size: 16px;
+    cursor: pointer;
+    opacity: 0.4;
+    margin-right: 14px;
+    box-shadow: none;
+    transition: opacity 0.15s ease-in-out;
+    &:hover {
+        opacity: 1;
+    }
+}
+
+
+}

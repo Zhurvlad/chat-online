@@ -1,0 +1,110 @@
+{
+  "dialogs": [
+    {
+      "_id": "5f84aeadda334552452b7ec9",
+      "text": "Et laboris ut id laboris labore ipsum irure eu sunt amet enim Lorem exercitation sit. Est reprehenderit consequat officia elit sit proident aute qui sint nostrud. Ipsum Lorem occaecat adipisicing officia consequat nisi sint est reprehenderit proident.",
+      "created_at": "Tue Jun 28 2016 20:17:15 GMT+0300 (Moscow Standard Time)",
+      "user": {
+        "_id": "<ReferenceError: object is not defined>",
+        "fullname": "Kelly Hicks",
+        "avatar": null
+      }
+    },
+    {
+      "_id": "5f84aead5ab0a1a1c332ffc4",
+      "text": "Culpa deserunt aute tempor ea enim non sit aute esse laborum et proident sit. Sunt duis ex adipisicing laboris laboris consectetur non aute nulla dolor laboris dolor. Nostrud cillum nulla aliquip eu duis Lorem occaecat.",
+      "created_at": "Sat Jun 03 2006 03:56:54 GMT+0400 (Moscow Summer Time)",
+      "user": {
+        "_id": "<ReferenceError: object is not defined>",
+        "fullname": "Francis Wilder",
+        "avatar": null
+      }
+    },
+    {
+      "_id": "5f84aeadab7b4b29854bcf62",
+      "text": "Lorem veniam esse do elit qui dolore consequat exercitation tempor. Labore id proident labore velit aute laboris culpa reprehenderit quis anim occaecat aliqua eiusmod culpa. Sint nostrud nulla consequat non sint fugiat do.",
+      "created_at": "Thu Mar 12 1981 13:53:00 GMT+0300 (Moscow Standard Time)",
+      "user": {
+        "_id": "<ReferenceError: object is not defined>",
+        "fullname": "Holcomb Bean",
+        "avatar": null
+      }
+    },
+    {
+      "_id": "5f84aead2e27d9fa7faa4198",
+      "text": "Ea dolor ex cillum culpa magna voluptate. Anim deserunt sunt mollit deserunt quis do tempor ipsum commodo voluptate qui est. Consequat irure officia voluptate occaecat ex magna nulla sit id id occaecat ut laborum.",
+      "created_at": "Tue Sep 07 1999 09:05:24 GMT+0400 (Moscow Summer Time)",
+      "user": {
+        "_id": "<ReferenceError: object is not defined>",
+        "fullname": "Julianne Foreman",
+        "avatar": null
+      }
+    },
+    {
+      "_id": "5f84aead62a6a0bfad308619",
+      "text": "Fugiat consequat tempor enim laborum velit ut. Occaecat occaecat ad minim minim incididunt ullamco. Officia excepteur occaecat nisi aliquip cupidatat fugiat fugiat.",
+      "created_at": "Sun Oct 06 1996 11:04:40 GMT+0400 (Moscow Summer Time)",
+      "user": {
+        "_id": "<ReferenceError: object is not defined>",
+        "fullname": "Gayle George",
+        "avatar": null
+      }
+    },
+    {
+      "_id": "5f84aead0d2ee8a1211e8af1",
+      "text": "Adipisicing officia sint irure est Lorem ea aute sint duis. Ea duis ipsum dolor commodo adipisicing nulla in. Commodo pariatur non enim irure ex est qui.",
+      "created_at": "Mon Mar 24 1997 12:45:41 GMT+0300 (Moscow Standard Time)",
+      "user": {
+        "_id": "<ReferenceError: object is not defined>",
+        "fullname": "Cobb Nash",
+        "avatar": null
+      }
+    },
+    {
+      "_id": "5f84aead63064e4539c6d97f",
+      "text": "In in labore occaecat nulla voluptate ad. Tempor mollit sunt reprehenderit deserunt velit elit aliquip Lorem consequat. Sunt deserunt Lorem culpa eiusmod.",
+      "created_at": "Mon May 01 1978 13:16:16 GMT+0300 (Moscow Standard Time)",
+      "user": {
+        "_id": "<ReferenceError: object is not defined>",
+        "fullname": "Gordon Slater",
+        "avatar": null
+      }
+    },
+    {
+      "_id": "5f84aead0b1d2f859d32fb63",
+      "text": "Lorem consectetur est culpa occaecat dolore nisi excepteur esse aute ex dolore. Proident id minim aute cillum adipisicing esse laboris. Ut velit officia incididunt eiusmod consectetur occaecat nulla qui commodo.",
+      "created_at": "Sun Jan 12 1975 14:53:29 GMT+0300 (Moscow Standard Time)",
+      "user": {
+        "_id": "<ReferenceError: object is not defined>",
+        "fullname": "Armstrong Faulkner",
+        "avatar": null
+      }
+    },
+    {
+      "_id": "5f84aeada476716c9b692c9c",
+      "text": "Irure incididunt nostrud ullamco eu. Ipsum minim amet reprehenderit cupidatat enim velit nisi aute dolor ea eiusmod eiusmod. Nulla est dolor veniam irure esse excepteur ullamco dolor dolore elit aliquip.",
+      "created_at": "Mon Jun 19 1989 19:46:18 GMT+0400 (Moscow Summer Time)",
+      "user": {
+        "_id": "<ReferenceError: object is not defined>",
+        "fullname": "Gertrude Mcdonald",
+        "avatar": null
+      }
+    },
+    {
+      "_id": "5f84aead9ae438fbaeaeb4e5",
+      "text": "Aute do aliquip est do commodo ullamco sunt laborum. Laborum cillum deserunt culpa deserunt exercitation fugiat duis consectetur aliquip esse veniam. Excepteur duis veniam aliquip sunt.",
+      "created_at": "Thu Jul 21 1977 03:37:05 GMT+0300 (Moscow Standard Time)",
+      "user": {
+        "_id": "<ReferenceError: object is not defined>",
+        "fullname": "Michele Roy",
+        "avatar": null
+      }
+    }
+  ],
+  "messages": [
+    {
+      "avatar": "https://sun9-43.userapi.com/_HNZv8tkly5W-me9IxSU4uPW92OE4-CpJjd6qQ/wrENvXPMFjw.jpg",
+      "text": "Салам пополам"
+    }
+  ]
+}
